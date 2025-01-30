@@ -102,11 +102,11 @@ body {
 .text {
   position: absolute;
   font-family: 'Brush Script MT', cursive;
-  font-size: 28px;
+  font-size: 1.75rem;
   text-align: center;
-  line-height:25px;
-  top:30px;
-  left:23px;
+  line-height:1.6725rem;
+  top:1.6875rem;
+  left:1.4375rem;
   color: #003049;
 }
 
