@@ -101,6 +101,8 @@ body {
 
 .text {
   position: absolute;
+  width: 87%;
+  height: 80%;
   font-family: 'Brush Script MT', cursive;
   font-size: 1.75rem;
   text-align: center;
