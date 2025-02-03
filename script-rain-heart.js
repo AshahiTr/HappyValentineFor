@@ -14,4 +14,4 @@ function createHeartfall() {
                 }, 12000);
   }
   
-  setInterval(createHeartfall, 100);
+  setInterval(createHeartfall, 50);
